@@ -68,8 +68,8 @@ public class GeneticsSequences{
     }
 
     public static void main(String[] args) throws IOException {
-        int n = 2000000; // Sequences number
-        int m = 100; //Sequence size
+        int n = 500000; // Sequences number
+        int m = 20; //Sequence size
         double pA = 0.25;
         double pC = 0.25;
         double pG = 0.25;
